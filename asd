@@ -146,7 +146,7 @@ def main():
     sent_emails = 0
     logo()
     choice = menu()
-#пидор пидорасиккккккккккк
+
     if choice == '1':
         print("1. СНОСИНГ.")
         print("2. Б0БСИНГ")
@@ -155,7 +155,7 @@ def main():
         print("5. С премкой сабака")
         print("6. С вирт номером.")
         comp_choice = input("выбирай наху: ")
-#luna_deal лох тупой зачем код мой расшифровываешь асел тупой?
+
         if comp_choice in ["1", "2", "3"]:
             print("следуй за указаниям.")
             username = input("юзернейм: ")
